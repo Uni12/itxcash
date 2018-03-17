@@ -1,2 +1,2 @@
 # itxcash
-itxcash new ccrypto currency
+itxcash new crypto currency
